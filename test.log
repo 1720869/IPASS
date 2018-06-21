@@ -1,0 +1,4 @@
+Wed May  9 16:36:06 2018 [pid 5789] [ftp] FAIL DOWNLOAD: Client "::ffff:192.168.37.200", "/pub/CentOS7/Packages/selinux-policy-targeted-3.13.1-166.el7.noarch.rpm", 717632 bytes, 3586.37Kbyte/sec
+Wed May  9 16:36:06 2018 [pid 5789] [ftp] FAIL DOWNLOAD: Client "::ffff:192.168.37.200", "/pub/CentOS7/Packages/selinux-policy-targeted-3.13.1-166.el7.noarch.rpm", 717632 bytes, 3586.37Kbyte/sec
+Wed May  9 16:36:06 2018 [pid 5789] [ftp] FAIL DOWNLOAD: Client "::ffff:192.168.37.200", "/pub/CentOS7/Packages/selinux-policy-targeted-3.13.1-166.el7.noarch.rpm", 717632 bytes, 3586.37Kbyte/sec
+Wed May  9 16:36:06 2018 [pid 5789] [ftp] FAIL DOWNLOAD: Client "::ffff:192.168.37.200", "/pub/CentOS7/Packages/selinux-policy-targeted-3.13.1-166.el7.noarch.rpm", 717632 bytes, 3586.37Kbyte/sec
