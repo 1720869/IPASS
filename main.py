@@ -247,6 +247,7 @@ def showClients():
     menu()
 
 
+# Menu
 def menu():
     print("-----------")
     print("Menu")
@@ -279,6 +280,7 @@ def menu():
             print("Try again")
 
 
+#Start at the start of the script
 def init():
     readEvents()
     menu()
